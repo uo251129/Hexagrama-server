@@ -1,0 +1,144 @@
+2018-12-06 12:38:09,728 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:498  | 1 sheet in .\data\OD5jDbKaqcVXjQlpS8ZD9.png
+2018-12-06 12:38:10,205 INFO []            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:10,205 INFO []            BasicBook.java:1462 | Book stored as .\output\OD5jDbKaqcVXjQlpS8ZD9\OD5jDbKaqcVXjQlpS8ZD9.omr
+2018-12-06 12:38:10,215 INFO []            BasicBook.java:1113 | Book reaching PAGE on sheets:[#1]
+2018-12-06 12:38:10,217 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | LOAD
+2018-12-06 12:38:10,389 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1028 | Loaded image 1 2520x2183 from .\data\OD5jDbKaqcVXjQlpS8ZD9.png
+2018-12-06 12:38:10,398 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:10,807 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:10,850 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | BINARY
+2018-12-06 12:38:11,508 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:11,657 INFO [OD5jDbKaqcVXjQlpS8ZD9]              Picture.java:797  | Stored /sheet#1/BINARY.xml
+2018-12-06 12:38:11,659 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:11,709 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | SCALE
+2018-12-06 12:38:11,742 INFO [OD5jDbKaqcVXjQlpS8ZD9]            ScaleStep.java:87   | Scale{line(2,3,4) interline(21,21,23) beam(12)}
+2018-12-06 12:38:11,745 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:11,747 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:11,792 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | GRID
+2018-12-06 12:38:12,305 INFO [OD5jDbKaqcVXjQlpS8ZD9]       LinesRetriever.java:444  | Global slope: -0.00212
+2018-12-06 12:38:12,337 INFO [OD5jDbKaqcVXjQlpS8ZD9]    ClustersRetriever.java:242  | Retrieved line clusters: 6 of size: 5 with interline: (21,21,23)
+2018-12-06 12:38:12,654 INFO [OD5jDbKaqcVXjQlpS8ZD9]            PeakGraph.java:181  | Systems: #1[1, 2] #2[3, 4] #3[5, 6]
+2018-12-06 12:38:13,426 INFO [OD5jDbKaqcVXjQlpS8ZD9]        SystemManager.java:662  | Indentation detected for system#1
+2018-12-06 12:38:13,426 INFO [OD5jDbKaqcVXjQlpS8ZD9]        SystemManager.java:745  | 1 part along 3 systems
+2018-12-06 12:38:13,437 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:13,504 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:13,532 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | HEADERS
+2018-12-06 12:38:13,783 INFO [OD5jDbKaqcVXjQlpS8ZD9]      BasicClassifier.java:391  | Classifier loaded XML norms.
+2018-12-06 12:38:13,786 INFO [OD5jDbKaqcVXjQlpS8ZD9]   AbstractClassifier.java:355  | Classifier data loaded from default uri jar:file:/C:/Users/Oderis/Documents/GitHub/Hexagrama-server/lib/audiveris.jar!/res/basic-classifier.zip
+2018-12-06 12:38:15,006 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:15,091 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:15,104 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | STEM_SEEDS
+2018-12-06 12:38:15,205 INFO [OD5jDbKaqcVXjQlpS8ZD9]        StemSeedsStep.java:92   | stem(2 max:4)
+2018-12-06 12:38:15,293 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:15,386 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:15,395 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | BEAMS
+2018-12-06 12:38:18,566 INFO [OD5jDbKaqcVXjQlpS8ZD9]       BlackHeadSizer.java:99   | Spots black-head retrieval diameter: 18.9
+2018-12-06 12:38:18,773 INFO [OD5jDbKaqcVXjQlpS8ZD9]       BlackHeadSizer.java:251  | Core black head count: 36 blackHead(width:24.8~0.4 height:22.9~1.4)
+2018-12-06 12:38:18,774 INFO [OD5jDbKaqcVXjQlpS8ZD9]       BlackHeadSizer.java:256  | MusicFont{name:MusicalSymbols pointSize:83}
+2018-12-06 12:38:18,970 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BeamsStep.java:89   | BeamDistance{count:27 mean:16.31 stdDev:6.92}
+2018-12-06 12:38:18,996 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:19,026 INFO [OD5jDbKaqcVXjQlpS8ZD9]              Picture.java:797  | Stored /sheet#1/HEAD_SPOTS.xml
+2018-12-06 12:38:19,258 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:19,269 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | LEDGERS
+2018-12-06 12:38:19,654 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:19,891 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:19,911 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | HEADS
+2018-12-06 12:38:22,080 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:22,392 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:22,403 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | STEMS
+2018-12-06 12:38:22,956 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:23,290 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:23,301 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | REDUCTION
+2018-12-06 12:38:23,413 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:23,725 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:23,738 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | CUE_BEAMS
+2018-12-06 12:38:23,741 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:24,048 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:24,072 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | TEXTS
+2018-12-06 12:38:25,113 WARN [OD5jDbKaqcVXjQlpS8ZD9]       TesseractOrder.java:165  | Could not initialize Tesseract with lang deu+eng+fra
+2018-12-06 12:38:25,200 WARN [OD5jDbKaqcVXjQlpS8ZD9]   AbstractSystemStep.java:201  | S1 java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at org.audiveris.omr.text.TextBuilder.retrieveSystemLines(TextBuilder.java:263)
+	at org.audiveris.omr.text.TextsStep.doSystem(TextsStep.java:66)
+	at org.audiveris.omr.text.TextsStep.doSystem(TextsStep.java:41)
+	at org.audiveris.omr.step.AbstractSystemStep$1.call(AbstractSystemStep.java:199)
+	at org.audiveris.omr.step.AbstractSystemStep$1.call(AbstractSystemStep.java:182)
+	at org.audiveris.omr.step.AbstractSystemStep.doitPerSystem(AbstractSystemStep.java:220)
+	at org.audiveris.omr.step.AbstractSystemStep.doit(AbstractSystemStep.java:106)
+	at org.audiveris.omr.step.Step.doit(Step.java:184)
+	at org.audiveris.omr.sheet.BasicStub$3.call(BasicStub.java:877)
+	at org.audiveris.omr.sheet.BasicStub$3.call(BasicStub.java:865)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2018-12-06 12:38:25,201 WARN [OD5jDbKaqcVXjQlpS8ZD9]   AbstractSystemStep.java:201  | S2 java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at org.audiveris.omr.text.TextBuilder.retrieveSystemLines(TextBuilder.java:263)
+	at org.audiveris.omr.text.TextsStep.doSystem(TextsStep.java:66)
+	at org.audiveris.omr.text.TextsStep.doSystem(TextsStep.java:41)
+	at org.audiveris.omr.step.AbstractSystemStep$1.call(AbstractSystemStep.java:199)
+	at org.audiveris.omr.step.AbstractSystemStep$1.call(AbstractSystemStep.java:182)
+	at org.audiveris.omr.step.AbstractSystemStep.doitPerSystem(AbstractSystemStep.java:220)
+	at org.audiveris.omr.step.AbstractSystemStep.doit(AbstractSystemStep.java:106)
+	at org.audiveris.omr.step.Step.doit(Step.java:184)
+	at org.audiveris.omr.sheet.BasicStub$3.call(BasicStub.java:877)
+	at org.audiveris.omr.sheet.BasicStub$3.call(BasicStub.java:865)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2018-12-06 12:38:25,202 WARN [OD5jDbKaqcVXjQlpS8ZD9]   AbstractSystemStep.java:201  | S3 java.lang.NullPointerException
+java.lang.NullPointerException: null
+	at org.audiveris.omr.text.TextBuilder.retrieveSystemLines(TextBuilder.java:263)
+	at org.audiveris.omr.text.TextsStep.doSystem(TextsStep.java:66)
+	at org.audiveris.omr.text.TextsStep.doSystem(TextsStep.java:41)
+	at org.audiveris.omr.step.AbstractSystemStep$1.call(AbstractSystemStep.java:199)
+	at org.audiveris.omr.step.AbstractSystemStep$1.call(AbstractSystemStep.java:182)
+	at org.audiveris.omr.step.AbstractSystemStep.doitPerSystem(AbstractSystemStep.java:220)
+	at org.audiveris.omr.step.AbstractSystemStep.doit(AbstractSystemStep.java:106)
+	at org.audiveris.omr.step.Step.doit(Step.java:184)
+	at org.audiveris.omr.sheet.BasicStub$3.call(BasicStub.java:877)
+	at org.audiveris.omr.sheet.BasicStub$3.call(BasicStub.java:865)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2018-12-06 12:38:25,206 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:25,469 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:25,477 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | MEASURES
+2018-12-06 12:38:25,483 INFO [OD5jDbKaqcVXjQlpS8ZD9]                 Page.java:260  | 17 raw measures: [6 in system#1, 5 in system#2, 6 in system#3]
+2018-12-06 12:38:25,485 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:25,771 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:25,803 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | CHORDS
+2018-12-06 12:38:25,852 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:26,125 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:26,348 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | CURVES
+2018-12-06 12:38:27,426 INFO [OD5jDbKaqcVXjQlpS8ZD9]         SlursBuilder.java:157  | Slurs: 3
+2018-12-06 12:38:27,438 INFO [OD5jDbKaqcVXjQlpS8ZD9]      SegmentsBuilder.java:114  | Segments: 11
+2018-12-06 12:38:27,445 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:27,742 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:27,752 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | SYMBOLS
+2018-12-06 12:38:27,997 INFO [OD5jDbKaqcVXjQlpS8ZD9]        SymbolFactory.java:560  | No support yet for TIME_ZERO
+2018-12-06 12:38:28,290 INFO [OD5jDbKaqcVXjQlpS8ZD9]        SymbolFactory.java:560  | No support yet for TIME_ZERO
+2018-12-06 12:38:28,371 INFO [OD5jDbKaqcVXjQlpS8ZD9]       SymbolsBuilder.java:341  | Symbol parts shrunk from 11 to 7
+2018-12-06 12:38:28,402 INFO [OD5jDbKaqcVXjQlpS8ZD9]        SymbolFactory.java:560  | No support yet for TIME_ZERO
+2018-12-06 12:38:28,410 INFO [OD5jDbKaqcVXjQlpS8ZD9]        SymbolFactory.java:560  | No support yet for TIME_ZERO
+2018-12-06 12:38:28,421 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:28,806 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:28,816 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | LINKS
+2018-12-06 12:38:28,862 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:29,279 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:29,288 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | RHYTHMS
+2018-12-06 12:38:29,337 INFO [OD5jDbKaqcVXjQlpS8ZD9]           PageRhythm.java:380  | Range{1-17 ts:2/4 dur:1/2} guess:1/2
+2018-12-06 12:38:29,372 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:29,750 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:29,780 INFO [OD5jDbKaqcVXjQlpS8ZD9]       StepMonitoring.java:96   | PAGE
+2018-12-06 12:38:29,786 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:30,155 INFO [OD5jDbKaqcVXjQlpS8ZD9]           BasicSheet.java:1038 | Stored /sheet#1/sheet#1.xml
+2018-12-06 12:38:30,182 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicStub.java:758  | Sheet{OD5jDbKaqcVXjQlpS8ZD9} disposed
+2018-12-06 12:38:30,743 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicStub.java:484  | Loaded /sheet#1/sheet#1.xml
+2018-12-06 12:38:30,744 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1234 | Scores built: 1
+2018-12-06 12:38:31,849 INFO [OD5jDbKaqcVXjQlpS8ZD9]        ScoreExporter.java:93   | Score OD5jDbKaqcVXjQlpS8ZD9 exported to .\output\OD5jDbKaqcVXjQlpS8ZD9\OD5jDbKaqcVXjQlpS8ZD9.mxl
+2018-12-06 12:38:31,973 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1502 | Stored /book.xml
+2018-12-06 12:38:31,973 INFO [OD5jDbKaqcVXjQlpS8ZD9]            BasicBook.java:1462 | Book stored as .\output\OD5jDbKaqcVXjQlpS8ZD9\OD5jDbKaqcVXjQlpS8ZD9.omr
