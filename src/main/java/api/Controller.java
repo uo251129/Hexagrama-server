@@ -7,12 +7,12 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import audiveris.AudiverisAdapter;
-import util.BitmapProcessor;
+import util.ImageProcessor;
 
 @RestController
 public class Controller {
 	AudiverisAdapter audiveris = new AudiverisAdapter();
-	BitmapProcessor btmProcessor = new BitmapProcessor();
+	ImageProcessor btmProcessor = new ImageProcessor();
 
    
     @RequestMapping("/file")
@@ -27,8 +27,7 @@ public class Controller {
     		method = RequestMethod.POST)
     public String audiveris(@RequestBody String image) {
     	if (image==null) return "{\"error\": \"Image must not be null\"}";
-    	audiveris.convertImage(btmProcessor.downloadImage(image));
-    	return "Imagen procesada satisfactoriamente";
+    	return audiveris.convertImage(btmProcessor.downloadImage(image));
     }
     
 }
