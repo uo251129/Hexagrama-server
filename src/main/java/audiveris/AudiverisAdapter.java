@@ -63,7 +63,7 @@ public class AudiverisAdapter {
 						for (int k = 0; k < pitchChilds.getLength(); k++) {
 							if (pitchChilds.item(k).getNodeName() == "step") {
 								s+=pitchChilds.item(k).getTextContent();
-								if (k != pitchChilds.getLength()) s += ", ";
+								s += ", ";
 							}
 						}
 					}
@@ -73,7 +73,7 @@ public class AudiverisAdapter {
 		} catch (ParserConfigurationException | SAXException | IOException e) {
 			e.printStackTrace();
 		}
-		
+		if (s.length() >= 2) s = s.substring(0,s.length() - 2); //quitamos la última coma
 		return s;
 
 	}

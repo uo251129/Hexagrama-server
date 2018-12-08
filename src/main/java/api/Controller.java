@@ -1,5 +1,7 @@
 package api;
 
+import java.util.Map;
+
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -23,9 +25,19 @@ public class Controller {
     }
     
     @RequestMapping(
-    		value = "/audiveris",
+    		value = "/audiveris/raw",
     		method = RequestMethod.POST)
     public String audiveris(@RequestBody String image) {
+    	if (image==null) return "{\"error\": \"Image must not be null\"}";
+    	return audiveris.convertImage(btmProcessor.downloadImage(image));
+    }
+    
+    @RequestMapping(
+    		value = "/audiveris/json",
+    		method = RequestMethod.POST)
+    public String audiveris(@RequestBody Map<String, String> jsonInput) {
+    	if (jsonInput==null) return "{\"error\": \"Image must not be null\"}";
+    	String image = jsonInput.get("image");
     	if (image==null) return "{\"error\": \"Image must not be null\"}";
     	return audiveris.convertImage(btmProcessor.downloadImage(image));
     }
