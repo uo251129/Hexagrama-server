@@ -17,7 +17,12 @@ public class Controller {
 	ImageProcessor btmProcessor = new ImageProcessor();
 
    
-    @RequestMapping("/file")
+    /**
+    * Deprecated method. It will be removed in a near version.
+    * Use /audiveris/raw or /audiveris/json instead.
+    */
+    @Deprecated
+	@RequestMapping("/file")
     public String file(@RequestParam(value="name") String filename) {
     	if (filename==null) return "{\"error\": \"Filename must not be null\"}";
     	audiveris.convertImage(filename);
